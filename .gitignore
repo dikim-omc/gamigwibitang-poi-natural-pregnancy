@@ -1,0 +1,7 @@
+# Raw and intermediate patient data must never be committed.
+# The source dataset is restricted under IRB exemption terms
+# (see README.md, Data availability section).
+data/
+*.xlsx
+*.csv
+*.pkl
