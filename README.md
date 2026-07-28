@@ -1,9 +1,11 @@
-# Analysis Code — Natural Pregnancy After Adjunctive Gamigwibitang Treatment in Idiopathic POI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21633771.svg)](https://doi.org/10.5281/zenodo.21633771)
+
+# Analysis Code — Natural pregnancy after adjunctive Gamigwibitang treatment in idiopathic POI
 
 This repository contains the statistical analysis code supporting the
-manuscript "Natural Pregnancy After Adjunctive Gamigwibitang Treatment
-in Women With Idiopathic Premature Ovarian Insufficiency and Elevated
-Cortisol: A Retrospective Cohort Study" (submitted to PLOS ONE).
+manuscript "Natural pregnancy after adjunctive Gamigwibitang treatment
+in women with idiopathic premature ovarian insufficiency and elevated
+cortisol: A retrospective cohort study" (submitted to PLOS ONE).
 
 ## Data availability
 
@@ -46,4 +48,9 @@ outputs where applicable).
 ## Citation
 
 If you use this code, please cite the manuscript (citation details to
-be added upon publication).
+be added upon publication) and this repository:
+
+Kim DI. Analysis code for "Natural pregnancy after adjunctive
+Gamigwibitang treatment in women with idiopathic premature ovarian
+insufficiency and elevated cortisol: A retrospective cohort study."
+Zenodo. 2026. https://doi.org/10.5281/zenodo.21633771
